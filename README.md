@@ -1,25 +1,28 @@
 # Portfolio Website
 
-A personal portfolio website built with React and Vite.
+This is my personal portfolio website showcasing my projects, skills, and experience as a developer.
 
-## Sections Included
+🔗 Live: https://tanyasuryavanshi.github.io/Tanya-Portfolio/
 
-- Hero
-- About
-- Education
-- Skills
-- Projects
-- Contact
+---
 
-## Run Locally
+## 🚀 Tech Stack
 
-```bash
-npm install
-npm run dev
-```
+- React.js
+- Vite
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- Font Awesome
 
-## Build for Production
+---
 
-```bash
-npm run build
-```
+## 📂 Features
+
+- 👩‍💻 About Me section
+- 🛠️ Projects showcase
+- 📄 Resume section
+- 📞 Contact section
+- 🎨 Responsive design
+
+---
+
