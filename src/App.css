@@ -4,6 +4,35 @@
   color: #e5e7eb;
 }
 
+.project-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.project-content {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.project-card p {
+  flex-grow: 1;
+}
+
+.chip-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-top: 0.7rem;
+  min-height: 70px;
+  align-content: flex-start;
+}
+
+.project-link {
+  margin-top: auto;
+}
+
 .content {
   padding-top: 5rem;
 }
@@ -390,3 +419,4 @@ footer p {
     gap: 0.3rem;
   }
 }
+
