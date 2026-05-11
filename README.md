@@ -12,7 +12,7 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 - Vite
 - JavaScript (ES6+)
 - HTML5 & CSS3
-- Font Awesome
+
 
 ---
 
